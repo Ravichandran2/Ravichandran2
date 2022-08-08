@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravichandran2
-- 👀 I’m interested in Software Development and Cybersecurity
-- 🌱 I’m currently learning Backend Technologies and PAM Tools
+- 👀 I’m interested in Software Development, Cloud and Cybersecurity
+- 🌱 I’m currently learning Backend Technologies, AWS and PAM Tools
 - 📫 How to reach me - ravi2chandrn@gmail.com
 
 <!---
